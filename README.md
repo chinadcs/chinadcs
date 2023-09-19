@@ -12,7 +12,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/dansampaiosantos)
 
 # 📊 GitHub Stats:
-<img src="https://github-readme-stats-wheat-two-53.vercel.app/api?username=chinadcs&theme=aura_dark&hide_border=false&include_all_commits=true&count_private=true"  width="364px" />                    <img src="https://github-readme-streak-stats.herokuapp.com/?user=chinadcs&theme=aura_dark&hide_border=false"  width="400px" />
+<img src="https://github-readme-stats-betasauro.vercel.app/api?username=chinadcs&theme=aura_dark&hide_border=false"  width="364px" />                    <img src="https://github-readme-streak-stats.herokuapp.com/?user=chinadcs&theme=aura_dark&hide_border=false"  width="400px" />
 
 
-![](https://github-readme-stats-wheat-two-53.vercel.app/api/top-langs/?username=chinadcs&theme=aura_dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats-betasauro.vercel.app/api/top-langs/?username=chinadcs&theme=aura_dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
